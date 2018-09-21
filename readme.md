@@ -2,7 +2,7 @@
 
 Questions are grouped by simiar topics.
 
-## Compute sum, Array, Hash Table
+## Compute sum
 
  LeetCode # | Title | Tag
  -----------| ----- | ---
