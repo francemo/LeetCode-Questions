@@ -2,7 +2,7 @@
 
 Questions are grouped by simiar topics.
 
-## Compute sum
+## Compute Sum
 
  LeetCode # | Title | Tag
  -----------| ----- | ---
