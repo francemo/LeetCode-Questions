@@ -29,6 +29,9 @@ LeetCode # | Title | Tag
  Title 
 ----------
 [Reconstruct binary tree](Jianzhi/_04.md)
+
 [Find minimum in a rotated array](Jianzhi/_06.md)
+
 [Count the number of 1s in a binary number](Jianzhi/_11.md)
+
 [Raise a double number to nth power](Jianzhi/_12.md)
