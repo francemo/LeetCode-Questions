@@ -29,4 +29,5 @@ LeetCode # | Title | Tag
  Title 
 ----------
 [Reconstruct binary tree](Jianzhi/_04.md)
+[Find minimum in a rotated array](Jianzhi/_06.md)
 
