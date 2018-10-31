@@ -35,3 +35,7 @@ LeetCode # | Title | Tag
 [Count the number of 1s in a binary number](Jianzhi/_11.md)
 
 [Raise a double number to nth power](Jianzhi/_12.md)
+
+[Has subtree](Jianzhi/_17.md)
+
+[Build a stack with min function](Jianzhi/_20.md)
