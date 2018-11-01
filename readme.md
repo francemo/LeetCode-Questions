@@ -39,3 +39,5 @@ LeetCode # | Title | Tag
 [Has subtree](Jianzhi/_17.md)
 
 [Build a stack with min function](Jianzhi/_20.md)
+
+[Push and pop sequences of a stack](Jianzhi/_21.md)
