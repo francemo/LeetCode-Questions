@@ -41,3 +41,5 @@ LeetCode # | Title | Tag
 [Build a stack with min function](Jianzhi/_20.md)
 
 [Push and pop sequences of a stack](Jianzhi/_21.md)
+
+[Copy complex linked list](Jianzhi/_25.md)
