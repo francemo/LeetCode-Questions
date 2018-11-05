@@ -9,7 +9,7 @@
 454 | [Four Sum II](LeetCode/_454.md) | Hash Table
 2 | [Add Two Number](LeetCode/_002.md) | LinkedList, Math
 67 | [Add Binary](LeetCode/_067.md) | Stirng, Math
-43 | [String Multiplication](LeetCode/_43.md) | String, multiplication
+43 | [String Multiplication](LeetCode/_043.md) | String, multiplication
 
 
 
