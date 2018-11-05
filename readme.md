@@ -1,8 +1,5 @@
 # LeetCode Question List:
 
-Questions are grouped by simiar topics.
-
-## Compute Sum
 
  LeetCode # | Title | Tag
  -----------| ----- | ---
@@ -10,17 +7,9 @@ Questions are grouped by simiar topics.
 15 | [Three Sum](LeetCode/_015.md) | Array, Two Pointers, Hash Table
 18 | [Four Sum](LeetCode/_018.md) | Array, Two Pointers
 454 | [Four Sum II](LeetCode/_454.md) | Hash Table
-
-
-## Addition
-
-LeetCode # | Title | Tag
- -----------| ----- | ---
 2 | [Add Two Number](LeetCode/_002.md) | LinkedList, Math
 67 | [Add Binary](LeetCode/_067.md) | Stirng, Math
-
-
-
+43 | [String Multiplication](LeetCode/_43.md) | String, multiplication
 
 
 
