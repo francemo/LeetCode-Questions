@@ -32,3 +32,15 @@
 [Push and pop sequences of a stack](Jianzhi/_21.md)
 
 [Copy complex linked list](Jianzhi/_25.md)
+
+[Find the smallest combination value](Jianzhi/_32.md)
+
+[Find N-th ugly number](Jianzhi/_33.md)
+
+[Count reverse ordered pairs](Jianzhi/_35.md)
+
+[Find the first common node in two linked lists](Jianzhi/_36.md)
+
+[Balanced binary tree](Jianzhi/_39.md)
+
+[Find two numbers only appeared once](Jianzhi/_40.md)
