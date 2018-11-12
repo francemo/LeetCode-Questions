@@ -44,3 +44,7 @@
 [Balanced binary tree](Jianzhi/_39.md)
 
 [Find two numbers only appeared once](Jianzhi/_40.md)
+
+[Find all continuous sequences with a given sum](Jianzhi/_41.md)
+
+[Add two numbers without `+, -, *, /`](Jianzhi/_48.md)
