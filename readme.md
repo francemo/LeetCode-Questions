@@ -50,3 +50,13 @@
 [Add two numbers without `+, -, *, /`](Jianzhi/_48.md)
 
 [Regular expression matching](Jianzhi/_52.md)
+
+[Linked list cycle](Jianzhi/_55.md)
+
+[Serialize a binary tree](Jianzhi/_61.md)
+
+[Get k-th node of a binary search tree](Jianzhi/_62.md)
+
+[Path in matrix](Jianzhi/_65.md)
+
+[Range of robot's motion](Jianzhi/_66.md)
